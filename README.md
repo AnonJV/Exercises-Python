@@ -10,4 +10,10 @@
 
 ## :triangular_flag_on_post: Execução
 
-Cada capítulo do livro será um diretório
+Cada capítulo do livro contém exercícios, por isso o repositório terá vários diretórios referentes aos capítulos do livro e seus respectivos exercícios. Cada diretório contará com um arquivo `README.md` que listará os exercícios e, logo mais, os arquivos python solucionando as questões. Espero que dessa forma eu possa avaliar meus conhecimentos, uma vez que *codar* é algo que se pratica regularmente, como diz a frase dos Anonymous: *"Tudo que se pratica repetidamente, se torna perfeição"*. 
+
+## :dart: Meta
+
+Meu objetivo, como já citado vagamente anteriormente, é aprofundar e aperfeiçoar minhas habilidades com a linguagem de programação de alto nível Python, de modo que eu possa ser um grande pesquisador na área tecnológica e para que eu possa saciar a fome de conhecimento, pois desejo ter profundo saber em todas as áreas e subáreas do mundo computacional. 
+
+![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/ThaTiemsz/ThaTiemsz/output/snake.svg)
