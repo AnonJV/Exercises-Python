@@ -1,4 +1,4 @@
-# Variáveis e tipos de dados simples
+## Variáveis e tipos de dados simples
 
 **2.1 Simple Message:** Atribua uma mensagem a uma variável e exiba essa mensagem.
 
