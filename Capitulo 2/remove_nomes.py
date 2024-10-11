@@ -3,3 +3,4 @@ print(person)
 print(f'Removendo o espaço esquerdo: {person.lstrip()}')
 print(f'Removendo o espaço direito: {person.rstrip()}')
 print(f'Removendo todos os espaços: {person.strip()}')
+# Star Wars é bom, não tem como negar
