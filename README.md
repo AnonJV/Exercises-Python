@@ -16,4 +16,8 @@ Cada capítulo do livro contém exercícios, por isso o repositório terá vári
 
 Meu objetivo, como já citado vagamente anteriormente, é aprofundar e aperfeiçoar minhas habilidades com a linguagem de programação de alto nível Python, de modo que eu possa ser um grande pesquisador na área tecnológica e para que eu possa saciar a fome de conhecimento, pois desejo ter profundo saber em todas as áreas e subáreas do mundo computacional. 
 
+## :blue_book: Livro
+
+Estou disponibilizando o e-book, porém na 1ª Edição. Para quem não pode comprar serve como um excelente guia para estudos e será útil para aprendizado e consulta quando necessário. 
+
 ![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/ThaTiemsz/ThaTiemsz/output/snake.svg)
